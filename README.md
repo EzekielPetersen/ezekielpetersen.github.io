@@ -1,2 +1,2 @@
-# EzekielPetersen.github.io
+# ezekielpetersen.github.io
 Personal Website
