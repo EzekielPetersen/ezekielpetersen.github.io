@@ -7,6 +7,10 @@ html, body {
   color: #222;
 }
 
+img {
+  border-radius: 5px;
+}
+
 .top-bar {
   height: 2rem;
 }
@@ -28,8 +32,8 @@ html, body {
   color: #00adef;
 }
 
-.fa-envelope:hover {
-  color: #d5d5d5;
+.fa-phone {
+  color: #43d854;
 }
 
 .link:hover {
