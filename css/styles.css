@@ -8,7 +8,7 @@ html, body {
 }
 
 img {
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 .top-bar {
@@ -34,6 +34,10 @@ img {
 
 .fa-phone {
   color: #43d854;
+}
+
+.fa-linkedin-in {
+  color: #0e76a8
 }
 
 .link:hover {
